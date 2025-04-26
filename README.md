@@ -4,9 +4,11 @@ This is a Spring Boot web application for managing Science Plans for the Gemini 
 
 ## Group Members
 
-* (Firstname Lastname Member 1)
-* (Firstname Lastname Member 2)
-* ...
+* 6588057 Nantipat Maneerattanaporn
+* 6588122 Weixian Deng
+* 6588188 Yotsapat Rattanaprasert
+* 6588079 Poottapol Poonna
+
 
 ## Technologies Used
 
@@ -21,8 +23,8 @@ This is a Spring Boot web application for managing Science Plans for the Gemini 
 
 1.  **Clone Repository:**
     ```bash
-    git clone <https://github.com/owen1199/Gemini9_D6>
-    cd <your-project-directory>
+    git clone <https://github.com/owen1199/Gemini__9_D6>
+    cd <Gemini_D6_/Gemini_D6/D6/Gemini9>
 
     ```
 2.  **Run using IDE (e.g., IntelliJ IDEA):**
